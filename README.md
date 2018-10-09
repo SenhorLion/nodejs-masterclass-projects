@@ -14,6 +14,6 @@ Please create a simple "Hello World" API. Meaning:
 
 1. [x] Create a public github repo for this assignment.
 
-2. [ ] Create a new post in the Facebook Group and note "Homework Assignment #1" at the top.
+2. [x] Create a new post in the Facebook Group and note "Homework Assignment #1" at the top.
 
-3. [ ] In that thread, discuss what you have built, and include the link to your Github repo.
+3. [x] In that thread, discuss what you have built, and include the link to your Github repo.
